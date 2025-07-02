@@ -1,0 +1,18 @@
+
+#
+# .gitignore
+# Apple-SwiftPackage-KochavaGoogleODM-XCFramework
+#
+# Created by John Bushnell on 4/29/2025
+# Copyright © 2025 Kochava, Inc.  All rights reserved.
+#
+
+
+
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+Release Notes.md
+semgrep.sarif
