@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/KochavaGoogleODM-Swift.h</key>
 		<data>
-		giuPdErMNa7OR2MOewSF/1HKoY8=
+		VFbqaohgobYPiADkMoNakwGIm0Y=
 		</data>
 		<key>Headers/KochavaGoogleODM.h</key>
 		<data>
@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		M9lTwpzcf/aBRJsMCM7fyOU0zgA=
+		KPK49qSfQoHEl3VNP+K3adMxtD0=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<data>
-		xASbrD+YkrvQcQ5oA8MOXgkrQK8=
+		zoXKNFsXIKjPsJp0/uAx5WTH9ts=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
-		u2Nqv65RvfDX14KExF8drH9WKDI=
+		k/xnY5gqMcNT82kAjPsemG+3F6A=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		ixquFv+w3F64fD6peP1abqh2DdA=
+		rBFJZ/RfwtXMU96xoyehDiCRMQk=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		u2Nqv65RvfDX14KExF8drH9WKDI=
+		k/xnY5gqMcNT82kAjPsemG+3F6A=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		xk2EDUQI+dI3kG9baHmNwU/OKmY=
+		6ZfI4gkz91KGZytTYdMMjzEqqPg=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<data>
-		xASbrD+YkrvQcQ5oA8MOXgkrQK8=
+		zoXKNFsXIKjPsJp0/uAx5WTH9ts=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
-		dJ+K/r4iP8MmcDvtAo6BP0mkulo=
+		Tno7dOUcGLI5gStlD1jVUQdLJXA=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		Dw/cF80pqrJ+LElfaL5SSK2j0ZQ=
+		1E6p6mqqc1LUoiJcME7Lk1ic+yI=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		dJ+K/r4iP8MmcDvtAo6BP0mkulo=
+		Tno7dOUcGLI5gStlD1jVUQdLJXA=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		IMARAJmEdrySj2yK21Vco/GYBdA=
+		Okk/WP8hd8DXgEeTLJV8x1PosIs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gL2JfX8WWJok7xvH3RYEB3Bw71TMD0lSiL0QYTtXDlc=
+			bHeMD793fZwxpeHsZb0k0S/4wfcWjGb/HsE9cW0HTBM=
 			</data>
 		</dict>
 		<key>Headers/KochavaGoogleODM.h</key>
@@ -85,70 +85,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1vHV9OYsdxvk/KzrfaHJYnYNfjnjNJ4ZtufjjRWty/s=
+			1qd7W4EtGJTXJY4JOoSCR+A19nNUjx/qgunnckFB6tY=
 			</data>
 		</dict>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4/dG7BM45btyKb78hJx5wWSp7maiBzf8lyLS1CH8nO4=
+			MxtYbeXDyyUcz958pdjJMkkLcQybn9TgJv489/zri0U=
 			</data>
 		</dict>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4+YECsHoMF7AwP1HG0K+c2vqJIE4MOCadAaTp08kVbo=
+			a1BLjQh1IQHupwzvQcp3X4rUxGbfiWRKxK9+8OWEv08=
 			</data>
 		</dict>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4/dG7BM45btyKb78hJx5wWSp7maiBzf8lyLS1CH8nO4=
+			MxtYbeXDyyUcz958pdjJMkkLcQybn9TgJv489/zri0U=
 			</data>
 		</dict>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+C5qWf73mT149HNP4ZYLsf/sYRSe4FUPN6IyVmwTnbs=
+			BJDCmpAaLHtZFjjoxo91xOJ1L+GHdM/n/g5XAH3te2I=
 			</data>
 		</dict>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1vHV9OYsdxvk/KzrfaHJYnYNfjnjNJ4ZtufjjRWty/s=
+			1qd7W4EtGJTXJY4JOoSCR+A19nNUjx/qgunnckFB6tY=
 			</data>
 		</dict>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T5D1KK3P/V/GwvTeQEhzXPQTZ+JCRLNByheJYsRz6q8=
+			ObSDMwAWNle1sXJeML4Z14fnTYGoEfJMgPkBobrsy4w=
 			</data>
 		</dict>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2iYCJ+uPqTaG12H3vwsUqPa3XowCCASrriwFwlklkmM=
+			lw5pFN0/N/Zq7ndf8v81GMnS5l1j1aBbr03aaOntxpo=
 			</data>
 		</dict>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T5D1KK3P/V/GwvTeQEhzXPQTZ+JCRLNByheJYsRz6q8=
+			ObSDMwAWNle1sXJeML4Z14fnTYGoEfJMgPkBobrsy4w=
 			</data>
 		</dict>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wy21ChNdr60Z++Lkbzuufdyql8xe7KyJDdjKX3lcfAI=
+			a9pLmFhz2/nS4Hm8eFqPtXU4K+O3EQEDDJbgGxqWqGM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -5622,224 +5622,224 @@
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "BooleanLiteral",
-      "offset": 23940,
+      "offset": 22559,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 31916,
+      "offset": 30491,
       "length": 12,
       "value": "\"google_odm\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 32317,
+      "offset": 30892,
       "length": 46,
       "value": "\"; instanceIdentifier = \""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 32362,
+      "offset": 30937,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 32588,
+      "offset": 31163,
       "length": 45,
       "value": "\"; storageIdentifier = \""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 32632,
+      "offset": 31207,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 32648,
+      "offset": 31223,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 32685,
+      "offset": 31260,
       "length": 121,
       "value": "\"<\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 32699,
+      "offset": 31274,
       "length": 1,
       "value": "\": \""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 32743,
+      "offset": 31318,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 32774,
+      "offset": 31349,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 32804,
+      "offset": 31379,
       "length": 1,
       "value": "\">\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 32958,
+      "offset": 31533,
       "length": 28,
       "value": "\"KochavaGoogleODM.GoogleODM\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 33477,
+      "offset": 32052,
       "length": 32,
       "value": "\"GoogleODM.executionTokenString\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "BooleanLiteral",
-      "offset": 39526,
+      "offset": 38101,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "BooleanLiteral",
-      "offset": 39628,
+      "offset": 38203,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 39680,
+      "offset": 38255,
       "length": 38,
       "value": "\"GoogleODM.Config.retrieveTransaction\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 39820,
+      "offset": 38395,
       "length": 42,
       "value": "\"GoogleODM.Networking.Config.retrieveTask\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 39876,
+      "offset": 38451,
       "length": 35,
       "value": "\"GoogleODM.FirstLaunch.dateSetTask\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 40190,
+      "offset": 38765,
       "length": 16,
       "value": "\"baseIdentifier\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 40208,
+      "offset": 38783,
       "length": 39,
       "value": "\"Networking.Config.retrieveTransaction\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 40269,
+      "offset": 38844,
       "length": 12,
       "value": "\"identifier\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 40283,
+      "offset": 38858,
       "length": 38,
       "value": "\"GoogleODM.Config.retrieveTransaction\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 41291,
+      "offset": 39866,
       "length": 19,
       "value": "\"GoogleODM.adapter\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "StringLiteral",
-      "offset": 41341,
+      "offset": 39916,
       "length": 11,
       "value": "\"googleODM\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "BooleanLiteral",
-      "offset": 41459,
+      "offset": 40034,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "BooleanLiteral",
-      "offset": 41508,
+      "offset": 40083,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "FloatLiteral",
-      "offset": 41553,
+      "offset": 40128,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "BooleanLiteral",
-      "offset": 41611,
+      "offset": 40186,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "Array",
-      "offset": 42934,
+      "offset": 41509,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "BooleanLiteral",
-      "offset": 44508,
+      "offset": 43083,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/GoogleODM.swift",
       "kind": "BooleanLiteral",
-      "offset": 46980,
+      "offset": 45555,
       "length": 4,
       "value": "true"
     },
@@ -6189,210 +6189,210 @@
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "StringLiteral",
-      "offset": 2088,
+      "offset": 2090,
       "length": 11,
       "value": "\"GoogleODM\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "StringLiteral",
-      "offset": 2139,
+      "offset": 2141,
       "length": 9,
       "value": "\"Kochava\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "StringLiteral",
-      "offset": 2189,
+      "offset": 2191,
       "length": 30,
       "value": "\"com.kochava.KochavaGoogleODM\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "StringLiteral",
-      "offset": 2254,
+      "offset": 2256,
       "length": 17,
       "value": "\"Apple.GoogleODM\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "StringLiteral",
-      "offset": 2308,
-      "length": 7,
-      "value": "\"9.1.0\""
+      "offset": 2310,
+      "length": 8,
+      "value": "\"10.0.0\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "StringLiteral",
-      "offset": 2355,
+      "offset": 2358,
       "length": 3,
       "value": "\"8\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "StringLiteral",
-      "offset": 2516,
+      "offset": 2519,
       "length": 20,
       "value": "\"KVABuildDateString\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "Array",
-      "offset": 2673,
+      "offset": 2676,
       "length": 4,
       "value": "[29]"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "StringLiteral",
-      "offset": 3524,
+      "offset": 3527,
       "length": 13,
       "value": "\"Measurement\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "BooleanLiteral",
-      "offset": 3598,
+      "offset": 3601,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "BooleanLiteral",
-      "offset": 3661,
+      "offset": 3664,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "StringLiteral",
-      "offset": 3816,
+      "offset": 3819,
       "length": 11,
       "value": "\"GoogleODM\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "StringLiteral",
-      "offset": 4221,
+      "offset": 4224,
       "length": 32,
       "value": "\"KochavaMeasurement.Measurement\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "BooleanLiteral",
-      "offset": 4337,
+      "offset": 4340,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "BooleanLiteral",
-      "offset": 4418,
+      "offset": 4421,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "BooleanLiteral",
-      "offset": 4491,
+      "offset": 4494,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "BooleanLiteral",
-      "offset": 4563,
+      "offset": 4566,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "BooleanLiteral",
-      "offset": 4641,
+      "offset": 4644,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "StringLiteral",
-      "offset": 4859,
+      "offset": 4862,
       "length": 28,
       "value": "\"KochavaGoogleODM.GoogleODM\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "BooleanLiteral",
-      "offset": 4963,
+      "offset": 4966,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "BooleanLiteral",
-      "offset": 5028,
+      "offset": 5031,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "BooleanLiteral",
-      "offset": 5696,
+      "offset": 5699,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "BooleanLiteral",
-      "offset": 5884,
+      "offset": 5887,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "BooleanLiteral",
-      "offset": 5934,
+      "offset": 5937,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "BooleanLiteral",
-      "offset": 6032,
+      "offset": 6035,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "Dictionary",
-      "offset": 6345,
+      "offset": 6348,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "StringLiteral",
-      "offset": 6401,
+      "offset": 6404,
       "length": 34,
       "value": "\"didInvalidateSharedGoogleODMBool\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "BooleanLiteral",
-      "offset": 6439,
+      "offset": 6442,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "StringLiteral",
-      "offset": 7184,
+      "offset": 7187,
       "length": 26,
       "value": "\"KochavaGoogleODM.Product\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaGoogleODM\/Sources\/KochavaGoogleODM\/Product.swift",
       "kind": "StringLiteral",
-      "offset": 7518,
+      "offset": 7521,
       "length": 40,
       "value": "\"GoogleODM.Product.executionTokenString\""
     }
