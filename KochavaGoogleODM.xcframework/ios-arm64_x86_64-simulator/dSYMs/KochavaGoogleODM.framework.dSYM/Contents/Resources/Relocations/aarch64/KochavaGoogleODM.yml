@@ -44,9 +44,9 @@ relocations:
   - { offset: 0x38BB3, size: 0x8, addend: 0x0, symName: '_$s16KochavaGoogleODM17ConversionManagerC14sharedInstanceyXlSgyFZ', symObjAddr: 0x0, symBinAddr: 0x285C, symSize: 0x260 }
   - { offset: 0x38BD7, size: 0x8, addend: 0x0, symName: '_$s16KochavaGoogleODM17ConversionManagerC6sharedyXlSgvpZ', symObjAddr: 0xE38, symBinAddr: 0x21608, symSize: 0x0 }
   - { offset: 0x38BF1, size: 0x8, addend: 0x0, symName: '_$s16KochavaGoogleODM17ConversionManagerC12type_kochava0A10Networking0A5_TypeCvpZ', symObjAddr: 0xE40, symBinAddr: 0x21610, symSize: 0x0 }
-  - { offset: 0x38C0B, size: 0x8, addend: 0x0, symName: '_$s16KochavaGoogleODM17ConversionManagerC3APIC22sharedInstanceSelector10ObjectiveC0I0VvpZ', symObjAddr: 0x68C0, symBinAddr: 0x21DA0, symSize: 0x0 }
-  - { offset: 0x38C25, size: 0x8, addend: 0x0, symName: '_$s16KochavaGoogleODM17ConversionManagerC3APIC13fetchSelector10ObjectiveC0H0VvpZ', symObjAddr: 0x68C8, symBinAddr: 0x21DA8, symSize: 0x0 }
-  - { offset: 0x38C3F, size: 0x8, addend: 0x0, symName: '_$s16KochavaGoogleODM17ConversionManagerC3APIC26setFirstLaunchTimeSelector10ObjectiveC0K0VvpZ', symObjAddr: 0x68D0, symBinAddr: 0x21DB0, symSize: 0x0 }
+  - { offset: 0x38C0B, size: 0x8, addend: 0x0, symName: '_$s16KochavaGoogleODM17ConversionManagerC3APIC22sharedInstanceSelector10ObjectiveC0I0VvpZ', symObjAddr: 0x6920, symBinAddr: 0x21DA0, symSize: 0x0 }
+  - { offset: 0x38C25, size: 0x8, addend: 0x0, symName: '_$s16KochavaGoogleODM17ConversionManagerC3APIC13fetchSelector10ObjectiveC0H0VvpZ', symObjAddr: 0x6928, symBinAddr: 0x21DA8, symSize: 0x0 }
+  - { offset: 0x38C3F, size: 0x8, addend: 0x0, symName: '_$s16KochavaGoogleODM17ConversionManagerC3APIC26setFirstLaunchTimeSelector10ObjectiveC0K0VvpZ', symObjAddr: 0x6930, symBinAddr: 0x21DB0, symSize: 0x0 }
   - { offset: 0x38E68, size: 0x8, addend: 0x0, symName: '_$s16KochavaGoogleODM17ConversionManagerC6shared_WZ', symObjAddr: 0x260, symBinAddr: 0x2ABC, symSize: 0x10 }
   - { offset: 0x38E82, size: 0x8, addend: 0x0, symName: '_$s16KochavaGoogleODM17ConversionManagerC6sharedyXlSgvpZACmTK', symObjAddr: 0x52C, symBinAddr: 0x2D88, symSize: 0x74 }
   - { offset: 0x38EA7, size: 0x8, addend: 0x0, symName: '_$s16KochavaGoogleODM17ConversionManagerC6sharedyXlSgvpZACmTk', symObjAddr: 0x5A0, symBinAddr: 0x2DFC, symSize: 0x74 }

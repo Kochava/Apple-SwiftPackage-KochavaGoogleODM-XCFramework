@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		CtKGb/bMTlDaWdhx0OzwcK38wP8=
+		4da3jY0kyngQ+lextVEIVzLLc7c=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<data>
-		zoXKNFsXIKjPsJp0/uAx5WTH9ts=
+		XHrxdGnCf6Ihq8e77fdZHwBXXrU=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		LQDNnOr+7P6MrOi/nDNQSQbPE24=
+		hbiP/4tu04xt9J/JcAeW6vfb+Zw=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<data>
-		zoXKNFsXIKjPsJp0/uAx5WTH9ts=
+		XHrxdGnCf6Ihq8e77fdZHwBXXrU=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		pPpaUlfXRnsUglJjzOwUtpjOTgg=
+		mN5oPOtxwMctMMmFzhgss6S+JdE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,7 +85,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1qd7W4EtGJTXJY4JOoSCR+A19nNUjx/qgunnckFB6tY=
+			z+7456QV8mwetK38ikn7e012SuiuoSCEv/ChWNkYccQ=
 			</data>
 		</dict>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
@@ -113,14 +113,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/vJ6w3dzAELYkH4bXQd+zXr6fK6CMKHFU7dExo2FJLY=
+			b6wHdcXiDQ4fh6NQ4SARPhAnmG2U9qhvb8Z2KeP1gQI=
 			</data>
 		</dict>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1qd7W4EtGJTXJY4JOoSCR+A19nNUjx/qgunnckFB6tY=
+			z+7456QV8mwetK38ikn7e012SuiuoSCEv/ChWNkYccQ=
 			</data>
 		</dict>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
@@ -148,7 +148,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bfvbSexZ0Fodtlw6Y6ct+3LqWUsIUI0ufu/heJFEPf8=
+			G+COE132ejQvFM4DvPyUc1FW7ocbN0BWip8QcSklfeU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

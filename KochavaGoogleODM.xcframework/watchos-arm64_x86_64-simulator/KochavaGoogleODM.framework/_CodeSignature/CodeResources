@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MaFS+VYwp4tgEbfbraOm/RiGfLw=
+		HTvi+oZUk49aSmRAKB1ph8g6/IU=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
-		I4AezN/kmI38nHGJP2TPWNdHp/A=
+		TUuaLNNph2d9HjrMvNBrllRxqfg=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		J9xO9YNEmQF67zOnXbeX2fzMT7E=
+		G7JxpdF7czeE4dc0WoXUNzVeWYU=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
-		I4AezN/kmI38nHGJP2TPWNdHp/A=
+		TUuaLNNph2d9HjrMvNBrllRxqfg=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		Y/EFP950QesnEOKV4JTEkSoTS10=
+		GRKCJmZKDRwjqnSqJmQNbwXsdgc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,7 +85,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oGL2uPTs3xZppPyB9xUAFpwmYruHyG/SxqFZNj5kGjs=
+			3LEIsEE50op+RX7gtB+5X05+sFhpCZzNMiHEKN37kzk=
 			</data>
 		</dict>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
@@ -113,14 +113,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vHxb7xtTsm0dkS3SOix0JXM7BBbGwIrjSFY8Xkaj3VA=
+			b5/2x7L3vBsGtbJ0qNzuQFDkgIfRRQ4N9Uc12ozDEaQ=
 			</data>
 		</dict>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oGL2uPTs3xZppPyB9xUAFpwmYruHyG/SxqFZNj5kGjs=
+			3LEIsEE50op+RX7gtB+5X05+sFhpCZzNMiHEKN37kzk=
 			</data>
 		</dict>
 		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
@@ -148,7 +148,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DpA9Z19eVyZ6J5aQsUEbwVw20H+cJAqw7u/eecTpXpc=
+			q/rcluK/wk6bMxkAgb3ksR1ZkTTUvh8pFV/W4OPBe44=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
