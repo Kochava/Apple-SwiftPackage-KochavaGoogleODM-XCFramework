@@ -14,15 +14,15 @@
 		</data>
 		<key>ios-arm64/KochavaGoogleODM.framework/Info.plist</key>
 		<data>
-		Z2BN1/gByYJ8fbi1cM3zTcSlGBQ=
+		I0eYwqjUbUWCuy7YI/UYRoKRJHc=
 		</data>
 		<key>ios-arm64/KochavaGoogleODM.framework/KochavaGoogleODM</key>
 		<data>
-		HAi1SBD/Cjk+ORJ774Z83XnLNso=
+		jmipQGUVBLJ0+Ek8n0ZeoM2loKU=
 		</data>
 		<key>ios-arm64/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		XHrxdGnCf6Ihq8e77fdZHwBXXrU=
+		6DEAmIA96Hi2A7pR14FiV9UmbRw=
 		</data>
 		<key>ios-arm64/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -44,21 +44,25 @@
 		<data>
 		OGl4H7ny93gyz1FVztaVI+HrHt8=
 		</data>
+		<key>ios-arm64/KochavaGoogleODM.framework/_CodeSignature/CodeResources</key>
+		<data>
+		85bo9D/xUt1lXTJhOQoL76gTFz4=
+		</data>
 		<key>ios-arm64/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		wTA22lUGTgG5ee1zNs0BI74x6g8=
+		FXz4Bu2cI4Q/mK6xlYSvyW0JWLU=
 		</data>
 		<key>ios-arm64/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Resources/DWARF/KochavaGoogleODM</key>
 		<data>
-		4C3VVu7Jv68DZFkYxs4uWRsD0qQ=
+		GQibXgGjU+hBCIpDHRz5fVhxfSU=
 		</data>
 		<key>ios-arm64/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Resources/Relocations/aarch64/KochavaGoogleODM.yml</key>
 		<data>
-		Gazijrs00cgbv9olzImbtdLRXuY=
+		9npTzf8Msdxi2kkWvdWHgdXw/5A=
 		</data>
 		<key>ios-arm64/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Resources/Swift/aarch64/KochavaNetworking.swiftinterface</key>
 		<data>
-		tihHi6nXpVhUJ2FaVj+oVld6hwg=
+		9DK4XR49LJ0ZvwEkQy/hmat7p+o=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaGoogleODM.framework/Versions/A/Headers/KochavaGoogleODM-Swift.h</key>
 		<data>
@@ -70,11 +74,11 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaGoogleODM.framework/Versions/A/KochavaGoogleODM</key>
 		<data>
-		DQgpSRfk/L991METW6LtQcOufU0=
+		wJSBnOwiRqc9y/7jNkQL8iwU/bk=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaGoogleODM.framework/Versions/A/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
 		<data>
-		XHrxdGnCf6Ihq8e77fdZHwBXXrU=
+		6DEAmIA96Hi2A7pR14FiV9UmbRw=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaGoogleODM.framework/Versions/A/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<data>
@@ -90,7 +94,7 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaGoogleODM.framework/Versions/A/Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<data>
-		XHrxdGnCf6Ihq8e77fdZHwBXXrU=
+		6DEAmIA96Hi2A7pR14FiV9UmbRw=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaGoogleODM.framework/Versions/A/Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<data>
@@ -110,11 +114,15 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaGoogleODM.framework/Versions/A/Resources/Info.plist</key>
 		<data>
-		KQN9gihIoSlaA/07TEWSzPdJqaY=
+		Zb5pvN9+hG/U1AIrgGR075lh6WE=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaGoogleODM.framework/Versions/A/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
 		OGl4H7ny93gyz1FVztaVI+HrHt8=
+		</data>
+		<key>ios-arm64_x86_64-maccatalyst/KochavaGoogleODM.framework/Versions/A/_CodeSignature/CodeResources</key>
+		<data>
+		wP5ml/hQXjnlz8fRd3mzvnX8rs8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KochavaGoogleODM.framework/Headers/KochavaGoogleODM-Swift.h</key>
 		<data>
@@ -126,15 +134,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/KochavaGoogleODM.framework/Info.plist</key>
 		<data>
-		vm4+DPs5uUBOCUwSXrAcBJVJVRI=
+		7h7DnORxTT6v5+qwfqq8iJERURE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KochavaGoogleODM.framework/KochavaGoogleODM</key>
 		<data>
-		05+mV6eAIYtmsTWsl53gJvfJB7Y=
+		/bADHnfPwjd8Vm+ZfTYKPk204UE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		XHrxdGnCf6Ihq8e77fdZHwBXXrU=
+		6DEAmIA96Hi2A7pR14FiV9UmbRw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -150,7 +158,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		XHrxdGnCf6Ihq8e77fdZHwBXXrU=
+		6DEAmIA96Hi2A7pR14FiV9UmbRw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -174,31 +182,31 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/KochavaGoogleODM.framework/_CodeSignature/CodeResources</key>
 		<data>
-		BX41TftgblELBgVM5mI3owikDpw=
+		E/RcrtYd5qGwoTmmxdm6H4kPoa4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		wTA22lUGTgG5ee1zNs0BI74x6g8=
+		FXz4Bu2cI4Q/mK6xlYSvyW0JWLU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Resources/DWARF/KochavaGoogleODM</key>
 		<data>
-		G9G8z/+lUSKdZHk86vDDl2NRtaA=
+		ekj9kQbr/JyVA59kvdQZwIJ79lM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Resources/Relocations/aarch64/KochavaGoogleODM.yml</key>
 		<data>
-		I83RZdAlXk9Km37TkiIE/yTkBI8=
+		FJMF0m8Z+t213Fm+onMY1ObvPmo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Resources/Relocations/x86_64/KochavaGoogleODM.yml</key>
 		<data>
-		5/oRnW4UVJaYFjVht/mHe6yOIdw=
+		/7kKIlUUgYc/bX7TpclkgcP9UvY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Resources/Swift/aarch64/KochavaNetworking.swiftinterface</key>
 		<data>
-		Sz7+X0qJdF8mbC176CHLlS0rtgk=
+		ReEE+1DJkdNU8L1PNQiCyPPVHM0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Resources/Swift/x86_64/KochavaNetworking.swiftinterface</key>
 		<data>
-		9d+OZj7m4exDWNo2mEQ4T/Ooa4A=
+		cde91n96rA3wSesfDHyDCLCSTgc=
 		</data>
 		<key>macos-arm64_x86_64/KochavaGoogleODM.framework/Versions/A/Headers/KochavaGoogleODM-Swift.h</key>
 		<data>
@@ -210,11 +218,11 @@
 		</data>
 		<key>macos-arm64_x86_64/KochavaGoogleODM.framework/Versions/A/KochavaGoogleODM</key>
 		<data>
-		YhaeW89LuDQOCUlT8dhK5apWZCI=
+		xuBt9euGcy8KDnLcPdlZGEyqeyE=
 		</data>
 		<key>macos-arm64_x86_64/KochavaGoogleODM.framework/Versions/A/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-macos.abi.json</key>
 		<data>
-		XHrxdGnCf6Ihq8e77fdZHwBXXrU=
+		6DEAmIA96Hi2A7pR14FiV9UmbRw=
 		</data>
 		<key>macos-arm64_x86_64/KochavaGoogleODM.framework/Versions/A/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<data>
@@ -230,7 +238,7 @@
 		</data>
 		<key>macos-arm64_x86_64/KochavaGoogleODM.framework/Versions/A/Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<data>
-		XHrxdGnCf6Ihq8e77fdZHwBXXrU=
+		6DEAmIA96Hi2A7pR14FiV9UmbRw=
 		</data>
 		<key>macos-arm64_x86_64/KochavaGoogleODM.framework/Versions/A/Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<data>
@@ -250,11 +258,15 @@
 		</data>
 		<key>macos-arm64_x86_64/KochavaGoogleODM.framework/Versions/A/Resources/Info.plist</key>
 		<data>
-		++kv+msE+vDp7AZcOrnmtKKSZMM=
+		w2p/S67cfL/CtjPeRPKqbQ5bMq0=
 		</data>
 		<key>macos-arm64_x86_64/KochavaGoogleODM.framework/Versions/A/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
 		OGl4H7ny93gyz1FVztaVI+HrHt8=
+		</data>
+		<key>macos-arm64_x86_64/KochavaGoogleODM.framework/Versions/A/_CodeSignature/CodeResources</key>
+		<data>
+		OVAsKAd6FysHhL6o+vxwZ4mAwas=
 		</data>
 		<key>tvos-arm64/KochavaGoogleODM.framework/Headers/KochavaGoogleODM-Swift.h</key>
 		<data>
@@ -266,15 +278,15 @@
 		</data>
 		<key>tvos-arm64/KochavaGoogleODM.framework/Info.plist</key>
 		<data>
-		iZbmbfnbKqkmPeQEFuVICQ50lUQ=
+		wX+Mbzkt4Iafs4DMZOPGEvkbKGA=
 		</data>
 		<key>tvos-arm64/KochavaGoogleODM.framework/KochavaGoogleODM</key>
 		<data>
-		Clj/ihZvRN+85GgRb74WfDKkBnU=
+		GecdyvrFmaL8aXllEK1i77z6Eh0=
 		</data>
 		<key>tvos-arm64/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-tvos.abi.json</key>
 		<data>
-		XHrxdGnCf6Ihq8e77fdZHwBXXrU=
+		6DEAmIA96Hi2A7pR14FiV9UmbRw=
 		</data>
 		<key>tvos-arm64/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-tvos.private.swiftinterface</key>
 		<data>
@@ -296,6 +308,10 @@
 		<data>
 		OGl4H7ny93gyz1FVztaVI+HrHt8=
 		</data>
+		<key>tvos-arm64/KochavaGoogleODM.framework/_CodeSignature/CodeResources</key>
+		<data>
+		HsmOys0UjjkwtcomZGEfaQ7Qd4g=
+		</data>
 		<key>tvos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Headers/KochavaGoogleODM-Swift.h</key>
 		<data>
 		VFbqaohgobYPiADkMoNakwGIm0Y=
@@ -306,15 +322,15 @@
 		</data>
 		<key>tvos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Info.plist</key>
 		<data>
-		kNfRj60UfUjl9LaYXTtdoDeKxhs=
+		h5AZTI19eC2mGwLqqARj0sackgk=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/KochavaGoogleODM.framework/KochavaGoogleODM</key>
 		<data>
-		C47wOJtSeCteARH87qgsMZK/HmY=
+		+FYJN8HBr/0n5w8O6qi2YcY0Aas=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<data>
-		XHrxdGnCf6Ihq8e77fdZHwBXXrU=
+		6DEAmIA96Hi2A7pR14FiV9UmbRw=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
@@ -330,7 +346,7 @@
 		</data>
 		<key>tvos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<data>
-		XHrxdGnCf6Ihq8e77fdZHwBXXrU=
+		6DEAmIA96Hi2A7pR14FiV9UmbRw=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
@@ -354,7 +370,7 @@
 		</data>
 		<key>tvos-arm64_x86_64-simulator/KochavaGoogleODM.framework/_CodeSignature/CodeResources</key>
 		<data>
-		pvNiJfHMo3kmPxspz72Mp6nGvHU=
+		Utkb4pVtz/45mwXqCP1N1ZiO3WU=
 		</data>
 		<key>watchos-arm64_arm64_32/KochavaGoogleODM.framework/Headers/KochavaGoogleODM-Swift.h</key>
 		<data>
@@ -366,15 +382,15 @@
 		</data>
 		<key>watchos-arm64_arm64_32/KochavaGoogleODM.framework/Info.plist</key>
 		<data>
-		px2ytv2LRy1bfucRqGWR1HJ0GDA=
+		nlSRM4pzqZqZO5HVUYshhAz9GE4=
 		</data>
 		<key>watchos-arm64_arm64_32/KochavaGoogleODM.framework/KochavaGoogleODM</key>
 		<data>
-		pFgJ86bG+cp5F6byvHbLXzydNK8=
+		4+SX6j0Nt2BonUP+nh+PNXXV3FQ=
 		</data>
 		<key>watchos-arm64_arm64_32/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos.abi.json</key>
 		<data>
-		TUuaLNNph2d9HjrMvNBrllRxqfg=
+		nmCiERnTONVvmM7+bfx06EXM/DQ=
 		</data>
 		<key>watchos-arm64_arm64_32/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos.private.swiftinterface</key>
 		<data>
@@ -390,7 +406,7 @@
 		</data>
 		<key>watchos-arm64_arm64_32/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64_32-apple-watchos.abi.json</key>
 		<data>
-		TUuaLNNph2d9HjrMvNBrllRxqfg=
+		nmCiERnTONVvmM7+bfx06EXM/DQ=
 		</data>
 		<key>watchos-arm64_arm64_32/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64_32-apple-watchos.private.swiftinterface</key>
 		<data>
@@ -412,6 +428,10 @@
 		<data>
 		OGl4H7ny93gyz1FVztaVI+HrHt8=
 		</data>
+		<key>watchos-arm64_arm64_32/KochavaGoogleODM.framework/_CodeSignature/CodeResources</key>
+		<data>
+		ZQMkZ2TrrSFMGnAXV5dj9zCINA0=
+		</data>
 		<key>watchos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Headers/KochavaGoogleODM-Swift.h</key>
 		<data>
 		/eb3S6pZKTvmNSfPU3wuAFB15UA=
@@ -422,15 +442,15 @@
 		</data>
 		<key>watchos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Info.plist</key>
 		<data>
-		HTvi+oZUk49aSmRAKB1ph8g6/IU=
+		oNDYUndWIIl3vwQfQRQ3D6ECgb4=
 		</data>
 		<key>watchos-arm64_x86_64-simulator/KochavaGoogleODM.framework/KochavaGoogleODM</key>
 		<data>
-		jvX3zZsnlanKeeMupPwDLj6OHYc=
+		pdSuurOkOQ3QgNtRGJtKlrF4oaM=
 		</data>
 		<key>watchos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
-		TUuaLNNph2d9HjrMvNBrllRxqfg=
+		nmCiERnTONVvmM7+bfx06EXM/DQ=
 		</data>
 		<key>watchos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -446,7 +466,7 @@
 		</data>
 		<key>watchos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
-		TUuaLNNph2d9HjrMvNBrllRxqfg=
+		nmCiERnTONVvmM7+bfx06EXM/DQ=
 		</data>
 		<key>watchos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -470,7 +490,7 @@
 		</data>
 		<key>watchos-arm64_x86_64-simulator/KochavaGoogleODM.framework/_CodeSignature/CodeResources</key>
 		<data>
-		TFT+GbsdJHTWM+f+TheDujTvkfM=
+		Jc2rvBHXv8XZj+mhFdcP35cIICk=
 		</data>
 		<key>xros-arm64/KochavaGoogleODM.framework/Headers/KochavaGoogleODM-Swift.h</key>
 		<data>
@@ -482,15 +502,15 @@
 		</data>
 		<key>xros-arm64/KochavaGoogleODM.framework/Info.plist</key>
 		<data>
-		p2Rl+Uj0dsYfLYwXj1Eny2ClmvQ=
+		ka3JzW5NuLX7K0Zx3eYy+/YNHx4=
 		</data>
 		<key>xros-arm64/KochavaGoogleODM.framework/KochavaGoogleODM</key>
 		<data>
-		eetzzxRyPp4SrWXjkPTKAktUSh8=
+		mE2sopbZrtwzrwBuVjpaoM+X/4k=
 		</data>
 		<key>xros-arm64/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros.abi.json</key>
 		<data>
-		XHrxdGnCf6Ihq8e77fdZHwBXXrU=
+		6DEAmIA96Hi2A7pR14FiV9UmbRw=
 		</data>
 		<key>xros-arm64/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros.private.swiftinterface</key>
 		<data>
@@ -512,6 +532,10 @@
 		<data>
 		OGl4H7ny93gyz1FVztaVI+HrHt8=
 		</data>
+		<key>xros-arm64/KochavaGoogleODM.framework/_CodeSignature/CodeResources</key>
+		<data>
+		qd3kbjUmiSZYjshss0GqAaYQAds=
+		</data>
 		<key>xros-arm64_x86_64-simulator/KochavaGoogleODM.framework/Headers/KochavaGoogleODM-Swift.h</key>
 		<data>
 		VFbqaohgobYPiADkMoNakwGIm0Y=
@@ -522,15 +546,15 @@
 		</data>
 		<key>xros-arm64_x86_64-simulator/KochavaGoogleODM.framework/Info.plist</key>
 		<data>
-		4da3jY0kyngQ+lextVEIVzLLc7c=
+		qwX2lHWF4uRzFSAew2Osvz/NHiw=
 		</data>
 		<key>xros-arm64_x86_64-simulator/KochavaGoogleODM.framework/KochavaGoogleODM</key>
 		<data>
-		W0+KrOn6WchA6aDZqu12OnRkPGg=
+		uS14jQEr0FRHuDdtKxjtbDLjGvA=
 		</data>
 		<key>xros-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<data>
-		XHrxdGnCf6Ihq8e77fdZHwBXXrU=
+		6DEAmIA96Hi2A7pR14FiV9UmbRw=
 		</data>
 		<key>xros-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
@@ -546,7 +570,7 @@
 		</data>
 		<key>xros-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<data>
-		XHrxdGnCf6Ihq8e77fdZHwBXXrU=
+		6DEAmIA96Hi2A7pR14FiV9UmbRw=
 		</data>
 		<key>xros-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
@@ -570,7 +594,7 @@
 		</data>
 		<key>xros-arm64_x86_64-simulator/KochavaGoogleODM.framework/_CodeSignature/CodeResources</key>
 		<data>
-		kUiwPASJkR1ZgIUJ619p9cpZD/8=
+		UBsiSdoojyqu0QxtySUlnpAxklk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -593,21 +617,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iK9xHqpa4ISHPMP4ZoMzwusTNRemDWyK8VTBxPybcVc=
+			bO2UoSQK8pPd6bqV82UtBoH4b7dBHsuSxhg0yMjOkuo=
 			</data>
 		</dict>
 		<key>ios-arm64/KochavaGoogleODM.framework/KochavaGoogleODM</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xd27PiLsviLEJcs3eCl1t/OZFshiTeQg7XuTbemxUXo=
+			V2KPBpSJ4gusYvKZMaBo4F+3c25ENF9emAeg0uCzmWM=
 			</data>
 		</dict>
 		<key>ios-arm64/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z+7456QV8mwetK38ikn7e012SuiuoSCEv/ChWNkYccQ=
+			fYn47YQoZvcslWdTPsmCRh2jaHvsLZvJP31RJy+4ToQ=
 			</data>
 		</dict>
 		<key>ios-arm64/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -645,32 +669,39 @@
 			ozHVGGR0Pr5OAN0iNgtKU4trOsJqaz61QJTmCjaVmhI=
 			</data>
 		</dict>
+		<key>ios-arm64/KochavaGoogleODM.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ICgA5kSqI3BD77g/xoxCeUDayfmJSmChF9Tu+PrqwKM=
+			</data>
+		</dict>
 		<key>ios-arm64/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cWzTKWCda5w+2k2XYEk6Qs8SkjujUF9l+Som+PtBfEY=
+			sQSfBKvdGSJ/O8+w2nG/eckUCkrYCZIllRcBaeycvWM=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Resources/DWARF/KochavaGoogleODM</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z4ofDKL3ZLOfSH/HtNij+9UVP7yDhO7n2OF+9vTuNEc=
+			PCAtWRoIjZ6ZI4sWffShvK5aXJ2x8zG+iweIN2C7dSs=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Resources/Relocations/aarch64/KochavaGoogleODM.yml</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X51lvmmiDZBk8VJlc5UGZkIacXsw24aNOS/qRk9KLaI=
+			T6XzMhslwaNu+yzEnkCz4BqJg0fSJd9svOMd18UYR8Q=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Resources/Swift/aarch64/KochavaNetworking.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f/kchY9tWFtpti9RUyctu/ojIQGunx1Uz0OOTX/d2wg=
+			TRShH9f4mwWhmM82C8vheWcGSdTqFcEi6HXflkPlZCQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaGoogleODM.framework/Headers</key>
@@ -711,14 +742,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NlGt5Z9jg3Gmfi+Y3zrfg5+WPUE7k25tqKGJPRmHQOs=
+			IJL5iVXzy1tFDHCYTXGe84Qu4IMbTVk0rn7UNueQ1Yc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaGoogleODM.framework/Versions/A/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z+7456QV8mwetK38ikn7e012SuiuoSCEv/ChWNkYccQ=
+			fYn47YQoZvcslWdTPsmCRh2jaHvsLZvJP31RJy+4ToQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaGoogleODM.framework/Versions/A/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
@@ -746,7 +777,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z+7456QV8mwetK38ikn7e012SuiuoSCEv/ChWNkYccQ=
+			fYn47YQoZvcslWdTPsmCRh2jaHvsLZvJP31RJy+4ToQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaGoogleODM.framework/Versions/A/Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
@@ -781,7 +812,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r4T3CZujY192jYAA7e2+p6/ED9HTmQQ5MEgBy0rZiuU=
+			gnQa8OXL23cdvC2txJVKW6XLm/KY47GSOLLdOIugAh4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaGoogleODM.framework/Versions/A/Resources/PrivacyInfo.xcprivacy</key>
@@ -789,6 +820,13 @@
 			<key>hash2</key>
 			<data>
 			ozHVGGR0Pr5OAN0iNgtKU4trOsJqaz61QJTmCjaVmhI=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/KochavaGoogleODM.framework/Versions/A/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UjjMJd2spBdQ5pSKaLBjJFKnbMUdRVkKr5pSOIG5PdM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaGoogleODM.framework/Versions/Current</key>
@@ -814,21 +852,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J/+X5GNjwA/xzD9eZgnOiYnFrbkzjeSBMTo41CNgQyM=
+			wM16VEmZuoKyWHCWJ8ZRZR0niRQ91ar4j96ZObOFX5U=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KochavaGoogleODM.framework/KochavaGoogleODM</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IFKW0SmXJKfVVrnZNrORh5/D+CvRfhs97YyJJiHuWOA=
+			wrDsQPmobLVII7jaatuev3qH6IceQcbAAfEj22uDaT4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z+7456QV8mwetK38ikn7e012SuiuoSCEv/ChWNkYccQ=
+			fYn47YQoZvcslWdTPsmCRh2jaHvsLZvJP31RJy+4ToQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -856,7 +894,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z+7456QV8mwetK38ikn7e012SuiuoSCEv/ChWNkYccQ=
+			fYn47YQoZvcslWdTPsmCRh2jaHvsLZvJP31RJy+4ToQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -898,49 +936,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			61AV06fbmScF088//bHIwzPk6vdrQIVF/z7at9NObFo=
+			mxrm8lT2TD44J8JuZmlvFLlGrIrMVaV6rlly7St97OI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cWzTKWCda5w+2k2XYEk6Qs8SkjujUF9l+Som+PtBfEY=
+			sQSfBKvdGSJ/O8+w2nG/eckUCkrYCZIllRcBaeycvWM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Resources/DWARF/KochavaGoogleODM</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JQbB5PDEVVdAPAnRtf3C2tlaTpzm7YfOHS+m1cl4ENs=
+			O1kTb/XKZW3mrIOFEDL67GAZBJD/RaFCJPoxr9FJBUw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Resources/Relocations/aarch64/KochavaGoogleODM.yml</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AwWPDCjJCW+tGcU8wMho6PEbgR+k8eBCTclO2DnWrDo=
+			h5qo3anb3UwemfdEojGv5OL7kEiOCbs6X04DeUcv86E=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Resources/Relocations/x86_64/KochavaGoogleODM.yml</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oMfUNSG2as7UGnEcqWIWZY4FLpqqnIcRcW44+AMq0bM=
+			YWBBrH7cIY+bj22+1Y9niA7ZSt35f3YsXIqjCqhBMzw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Resources/Swift/aarch64/KochavaNetworking.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9hb+gUunFQaYfxAZ82g6Tiee8RrmZfrl2JHiYa+v5Lc=
+			N+7s545Zdn+SToyc53Iiptz2igALR/ZaEGKh1GP1NUw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaGoogleODM.framework.dSYM/Contents/Resources/Swift/x86_64/KochavaNetworking.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kEM8wqqTWRMU00nkWBd3zxUgrzNvcsBCQLWZW981RJ4=
+			5yI1fV0qwYfpoPecnWnIRP9WJwV0C+t0lSWwBdOxDQY=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/KochavaGoogleODM.framework/Headers</key>
@@ -981,14 +1019,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vv/ZJX3oswTgfZ247Ayum90CkoePYsEntaKkYwO4+Tk=
+			yBvxRRk03BjZial9tGeXQN2etyHjxp8Ga/8UwB3N7Cc=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/KochavaGoogleODM.framework/Versions/A/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z+7456QV8mwetK38ikn7e012SuiuoSCEv/ChWNkYccQ=
+			fYn47YQoZvcslWdTPsmCRh2jaHvsLZvJP31RJy+4ToQ=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/KochavaGoogleODM.framework/Versions/A/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
@@ -1016,7 +1054,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z+7456QV8mwetK38ikn7e012SuiuoSCEv/ChWNkYccQ=
+			fYn47YQoZvcslWdTPsmCRh2jaHvsLZvJP31RJy+4ToQ=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/KochavaGoogleODM.framework/Versions/A/Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
@@ -1051,7 +1089,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CfQC/y9HyqA/PFK1sZVpcjXtu5rR1Dfxfd0/Bl7elxY=
+			DOoWEAwqsMlU7a59i52JKxJoqLTbJYJ0mdHh0KUu8ug=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/KochavaGoogleODM.framework/Versions/A/Resources/PrivacyInfo.xcprivacy</key>
@@ -1059,6 +1097,13 @@
 			<key>hash2</key>
 			<data>
 			ozHVGGR0Pr5OAN0iNgtKU4trOsJqaz61QJTmCjaVmhI=
+			</data>
+		</dict>
+		<key>macos-arm64_x86_64/KochavaGoogleODM.framework/Versions/A/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iaAoqIMXDruG+x0SfWak82zr2KWIyEv0EA/Ls3iph3k=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/KochavaGoogleODM.framework/Versions/Current</key>
@@ -1084,21 +1129,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			a43kw15uC3jZcVEdgmpQUPmFpUNrsbc5cqtl2jkcT4M=
+			MO10s/tzIqgvtQg4ZF9dQQU482Tu3LBNEyQIGDQMP9s=
 			</data>
 		</dict>
 		<key>tvos-arm64/KochavaGoogleODM.framework/KochavaGoogleODM</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XrLCbe4kF37svYQtZ3kuewoOOwvOrLLSgatvPCr7vao=
+			t+l4da9hCrsltmte6Eiqa7uV7CLiOrjuwd+tnBR/zys=
 			</data>
 		</dict>
 		<key>tvos-arm64/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-tvos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z+7456QV8mwetK38ikn7e012SuiuoSCEv/ChWNkYccQ=
+			fYn47YQoZvcslWdTPsmCRh2jaHvsLZvJP31RJy+4ToQ=
 			</data>
 		</dict>
 		<key>tvos-arm64/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-tvos.private.swiftinterface</key>
@@ -1136,6 +1181,13 @@
 			ozHVGGR0Pr5OAN0iNgtKU4trOsJqaz61QJTmCjaVmhI=
 			</data>
 		</dict>
+		<key>tvos-arm64/KochavaGoogleODM.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3QCXWySadAWZBIXWJIJPh4QKjO/opyYpK5d8ERAPNtM=
+			</data>
+		</dict>
 		<key>tvos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Headers/KochavaGoogleODM-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -1154,21 +1206,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			a7OYrgtn3P6reRfOHVTkTuK2XYbDUlDcorHZ1RW8RFo=
+			ZuGJOvFmdm0kBbWpE08SR6JkO0DdJfowNlj3TW4YkU4=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/KochavaGoogleODM.framework/KochavaGoogleODM</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5PcjJY59jzsZiJiobsTruyurrCrWM9JwJO4+91BktHo=
+			331PECqI3Er01q66RjNNHr8hRXzaLSAvT8YhOMEtPX4=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z+7456QV8mwetK38ikn7e012SuiuoSCEv/ChWNkYccQ=
+			fYn47YQoZvcslWdTPsmCRh2jaHvsLZvJP31RJy+4ToQ=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
@@ -1196,7 +1248,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z+7456QV8mwetK38ikn7e012SuiuoSCEv/ChWNkYccQ=
+			fYn47YQoZvcslWdTPsmCRh2jaHvsLZvJP31RJy+4ToQ=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
@@ -1238,7 +1290,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aH3Ok2RooXQbxsoWpg5NiDL29s/+RlGplCUPLIuDkJ4=
+			x+p3u/q8AIuNBAYvqHG9YuV5iM9GherViEJfDRxfm6Q=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32/KochavaGoogleODM.framework/Headers/KochavaGoogleODM-Swift.h</key>
@@ -1259,21 +1311,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J+TZhlbAV7kM5Xy/VwfHgMs+h5Hot3FtyvL/ulPuDrs=
+			wb3J+PNlLH2e3ucNrItH+KHZekmpSWxq5U35jjyqrls=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32/KochavaGoogleODM.framework/KochavaGoogleODM</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wyFa3U3jWhFPakHwBobjC1neVY4gur8dEYZiMN3YfxI=
+			olWx+9HUNjGQw7/8EfWK+Poozlq31g8pR0ET1MhVZHE=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3LEIsEE50op+RX7gtB+5X05+sFhpCZzNMiHEKN37kzk=
+			hJhHQItUE2CA8gQr0UYW1eMYgcxiktUMl3oxjVWeHr0=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos.private.swiftinterface</key>
@@ -1301,7 +1353,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3LEIsEE50op+RX7gtB+5X05+sFhpCZzNMiHEKN37kzk=
+			hJhHQItUE2CA8gQr0UYW1eMYgcxiktUMl3oxjVWeHr0=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64_32-apple-watchos.private.swiftinterface</key>
@@ -1339,6 +1391,13 @@
 			ozHVGGR0Pr5OAN0iNgtKU4trOsJqaz61QJTmCjaVmhI=
 			</data>
 		</dict>
+		<key>watchos-arm64_arm64_32/KochavaGoogleODM.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QpKdj8MTdwiJRbWkOmKUKbC6Zf++X/lHtjLvW/f48PA=
+			</data>
+		</dict>
 		<key>watchos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Headers/KochavaGoogleODM-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -1357,21 +1416,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3cHBiSJqHsdm3q38I9kMuAiNqx+4tlMP9B/W0wPYgGA=
+			AJnGh1SPz3FOnaDPh5U3c0aU8oJnwBiKKbKWedQBjGo=
 			</data>
 		</dict>
 		<key>watchos-arm64_x86_64-simulator/KochavaGoogleODM.framework/KochavaGoogleODM</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QEAqYXaQ+d0LAjLJYdf2ETKUjTo3WN7Vq7ysvTFWg3I=
+			JZj2RdgPPLNc3HyIaf5U4y7d0QQu7g3CgPkHceiIFhM=
 			</data>
 		</dict>
 		<key>watchos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3LEIsEE50op+RX7gtB+5X05+sFhpCZzNMiHEKN37kzk=
+			hJhHQItUE2CA8gQr0UYW1eMYgcxiktUMl3oxjVWeHr0=
 			</data>
 		</dict>
 		<key>watchos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
@@ -1399,7 +1458,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3LEIsEE50op+RX7gtB+5X05+sFhpCZzNMiHEKN37kzk=
+			hJhHQItUE2CA8gQr0UYW1eMYgcxiktUMl3oxjVWeHr0=
 			</data>
 		</dict>
 		<key>watchos-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
@@ -1441,7 +1500,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9uw5jbBCrpNpYCmEBpx0l8MtmPScx8p9ScKv84tMBDE=
+			S5+UUAi/UX/dSWBPL/0ucGVXBsA/w7hdMI4iB241hUU=
 			</data>
 		</dict>
 		<key>xros-arm64/KochavaGoogleODM.framework/Headers/KochavaGoogleODM-Swift.h</key>
@@ -1462,21 +1521,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6UqrmQ+XPZwT0BAzkinuD7j27ObL3zBq8BhBcddN6WI=
+			cl0Ogx5kkQY6i+PIDkw8dQbs/DjxMlo+KSwMh2Pz0hQ=
 			</data>
 		</dict>
 		<key>xros-arm64/KochavaGoogleODM.framework/KochavaGoogleODM</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e6aOEFxkiAMU73QQ+4FmXrsb0yrIqjncJhh+DYvuV5U=
+			bCPmxaM6VJfsFVCop7fR0rkbzVjY7BXloa6lYbq89nI=
 			</data>
 		</dict>
 		<key>xros-arm64/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z+7456QV8mwetK38ikn7e012SuiuoSCEv/ChWNkYccQ=
+			fYn47YQoZvcslWdTPsmCRh2jaHvsLZvJP31RJy+4ToQ=
 			</data>
 		</dict>
 		<key>xros-arm64/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros.private.swiftinterface</key>
@@ -1514,6 +1573,13 @@
 			ozHVGGR0Pr5OAN0iNgtKU4trOsJqaz61QJTmCjaVmhI=
 			</data>
 		</dict>
+		<key>xros-arm64/KochavaGoogleODM.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6t7HJAAMpuANL6I1nPxKG7TkcyMPLGKZucLojcKfFy8=
+			</data>
+		</dict>
 		<key>xros-arm64_x86_64-simulator/KochavaGoogleODM.framework/Headers/KochavaGoogleODM-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -1532,21 +1598,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CVpkozfN3ntcyl/9JkAR1CCkGvjXx70e7mZaKowpxlo=
+			liQKT6i1hE7o2rdYS40ImTSCkmqZCjjsgGMJ/5N7PII=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/KochavaGoogleODM.framework/KochavaGoogleODM</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T/XLVcD798X1PgUjU6gkjA0kodvNkCScmjqg4Y5KoCY=
+			LRRIrjKsF4MQoZOc40SOqpSFJsiVEgZFHiww8+pJRec=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z+7456QV8mwetK38ikn7e012SuiuoSCEv/ChWNkYccQ=
+			fYn47YQoZvcslWdTPsmCRh2jaHvsLZvJP31RJy+4ToQ=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
@@ -1574,7 +1640,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z+7456QV8mwetK38ikn7e012SuiuoSCEv/ChWNkYccQ=
+			fYn47YQoZvcslWdTPsmCRh2jaHvsLZvJP31RJy+4ToQ=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/KochavaGoogleODM.framework/Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
@@ -1616,7 +1682,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YJ/gZuDiP90CQx0ANgYCg3O2wn0RdMrVB9JWuMQkKhk=
+			1UQKgAoJSCAZLtE4MP4he0LVE4bdX3b4Vq6ulRz3NFY=
 			</data>
 		</dict>
 	</dict>

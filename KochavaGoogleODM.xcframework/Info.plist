@@ -8,37 +8,7 @@
 			<key>BinaryPath</key>
 			<string>KochavaGoogleODM.framework/KochavaGoogleODM</string>
 			<key>LibraryIdentifier</key>
-			<string>tvos-arm64</string>
-			<key>LibraryPath</key>
-			<string>KochavaGoogleODM.framework</string>
-			<key>SupportedArchitectures</key>
-			<array>
-				<string>arm64</string>
-			</array>
-			<key>SupportedPlatform</key>
-			<string>tvos</string>
-		</dict>
-		<dict>
-			<key>BinaryPath</key>
-			<string>KochavaGoogleODM.framework/KochavaGoogleODM</string>
-			<key>DebugSymbolsPath</key>
-			<string>dSYMs</string>
-			<key>LibraryIdentifier</key>
-			<string>ios-arm64</string>
-			<key>LibraryPath</key>
-			<string>KochavaGoogleODM.framework</string>
-			<key>SupportedArchitectures</key>
-			<array>
-				<string>arm64</string>
-			</array>
-			<key>SupportedPlatform</key>
-			<string>ios</string>
-		</dict>
-		<dict>
-			<key>BinaryPath</key>
-			<string>KochavaGoogleODM.framework/Versions/A/KochavaGoogleODM</string>
-			<key>LibraryIdentifier</key>
-			<string>ios-arm64_x86_64-maccatalyst</string>
+			<string>watchos-arm64_x86_64-simulator</string>
 			<key>LibraryPath</key>
 			<string>KochavaGoogleODM.framework</string>
 			<key>SupportedArchitectures</key>
@@ -47,9 +17,9 @@
 				<string>x86_64</string>
 			</array>
 			<key>SupportedPlatform</key>
-			<string>ios</string>
+			<string>watchos</string>
 			<key>SupportedPlatformVariant</key>
-			<string>maccatalyst</string>
+			<string>simulator</string>
 		</dict>
 		<dict>
 			<key>BinaryPath</key>
@@ -67,6 +37,22 @@
 			<string>tvos</string>
 			<key>SupportedPlatformVariant</key>
 			<string>simulator</string>
+		</dict>
+		<dict>
+			<key>BinaryPath</key>
+			<string>KochavaGoogleODM.framework/KochavaGoogleODM</string>
+			<key>DebugSymbolsPath</key>
+			<string>dSYMs</string>
+			<key>LibraryIdentifier</key>
+			<string>ios-arm64</string>
+			<key>LibraryPath</key>
+			<string>KochavaGoogleODM.framework</string>
+			<key>SupportedArchitectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>SupportedPlatform</key>
+			<string>ios</string>
 		</dict>
 		<dict>
 			<key>BinaryPath</key>
@@ -89,18 +75,29 @@
 			<key>BinaryPath</key>
 			<string>KochavaGoogleODM.framework/KochavaGoogleODM</string>
 			<key>LibraryIdentifier</key>
-			<string>watchos-arm64_x86_64-simulator</string>
+			<string>xros-arm64</string>
 			<key>LibraryPath</key>
 			<string>KochavaGoogleODM.framework</string>
 			<key>SupportedArchitectures</key>
 			<array>
 				<string>arm64</string>
-				<string>x86_64</string>
 			</array>
 			<key>SupportedPlatform</key>
-			<string>watchos</string>
-			<key>SupportedPlatformVariant</key>
-			<string>simulator</string>
+			<string>xros</string>
+		</dict>
+		<dict>
+			<key>BinaryPath</key>
+			<string>KochavaGoogleODM.framework/KochavaGoogleODM</string>
+			<key>LibraryIdentifier</key>
+			<string>tvos-arm64</string>
+			<key>LibraryPath</key>
+			<string>KochavaGoogleODM.framework</string>
+			<key>SupportedArchitectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>SupportedPlatform</key>
+			<string>tvos</string>
 		</dict>
 		<dict>
 			<key>BinaryPath</key>
@@ -153,17 +150,20 @@
 		</dict>
 		<dict>
 			<key>BinaryPath</key>
-			<string>KochavaGoogleODM.framework/KochavaGoogleODM</string>
+			<string>KochavaGoogleODM.framework/Versions/A/KochavaGoogleODM</string>
 			<key>LibraryIdentifier</key>
-			<string>xros-arm64</string>
+			<string>ios-arm64_x86_64-maccatalyst</string>
 			<key>LibraryPath</key>
 			<string>KochavaGoogleODM.framework</string>
 			<key>SupportedArchitectures</key>
 			<array>
 				<string>arm64</string>
+				<string>x86_64</string>
 			</array>
 			<key>SupportedPlatform</key>
-			<string>xros</string>
+			<string>ios</string>
+			<key>SupportedPlatformVariant</key>
+			<string>maccatalyst</string>
 		</dict>
 	</array>
 	<key>CFBundlePackageType</key>

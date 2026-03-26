@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/KochavaGoogleODM-Swift.h</key>
 		<data>
-		VFbqaohgobYPiADkMoNakwGIm0Y=
+		LaVAoH0exwR6nhBqXsSnTG/sH4o=
 		</data>
 		<key>Headers/KochavaGoogleODM.h</key>
 		<data>
@@ -14,39 +14,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		qwX2lHWF4uRzFSAew2Osvz/NHiw=
+		nlSRM4pzqZqZO5HVUYshhAz9GE4=
 		</data>
-		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
+		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos.abi.json</key>
 		<data>
-		6DEAmIA96Hi2A7pR14FiV9UmbRw=
+		nmCiERnTONVvmM7+bfx06EXM/DQ=
 		</data>
-		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
+		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos.private.swiftinterface</key>
 		<data>
-		uM1ubGJyXRONjsne6whkLgt0TrQ=
+		TfuPyUznb2wc5T8z6SjFPPYuQaQ=
 		</data>
-		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros-simulator.swiftdoc</key>
+		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos.swiftdoc</key>
 		<data>
-		A2lBaJ4mzwSDimZsmr5RJ+uZOJ8=
+		yXD9huqvnftT1mw8zfno+/f4goE=
 		</data>
-		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros-simulator.swiftinterface</key>
+		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos.swiftinterface</key>
 		<data>
-		uM1ubGJyXRONjsne6whkLgt0TrQ=
+		TfuPyUznb2wc5T8z6SjFPPYuQaQ=
 		</data>
-		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
+		<key>Modules/KochavaGoogleODM.swiftmodule/arm64_32-apple-watchos.abi.json</key>
 		<data>
-		6DEAmIA96Hi2A7pR14FiV9UmbRw=
+		nmCiERnTONVvmM7+bfx06EXM/DQ=
 		</data>
-		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
+		<key>Modules/KochavaGoogleODM.swiftmodule/arm64_32-apple-watchos.private.swiftinterface</key>
 		<data>
-		HwfBA6oFcSo7coID+an7od6Urzs=
+		PpPiaa0EWQvjE5KwzM8lSQsgZww=
 		</data>
-		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-xros-simulator.swiftdoc</key>
+		<key>Modules/KochavaGoogleODM.swiftmodule/arm64_32-apple-watchos.swiftdoc</key>
 		<data>
-		d+Ecc5b4pqBTxL+AXoyomFYaSss=
+		M4cXMRNKfRpEFDJJRoVG8sEs4xQ=
 		</data>
-		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-xros-simulator.swiftinterface</key>
+		<key>Modules/KochavaGoogleODM.swiftmodule/arm64_32-apple-watchos.swiftinterface</key>
 		<data>
-		HwfBA6oFcSo7coID+an7od6Urzs=
+		PpPiaa0EWQvjE5KwzM8lSQsgZww=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,76 +61,120 @@
 	<dict>
 		<key>Headers/KochavaGoogleODM-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			LaVAoH0exwR6nhBqXsSnTG/sH4o=
+			</data>
 			<key>hash2</key>
 			<data>
-			bHeMD793fZwxpeHsZb0k0S/4wfcWjGb/HsE9cW0HTBM=
+			nQw5Xu2qXX4wJrIz3j2HfzL+Z+P7o88M4LBji7AMq80=
 			</data>
 		</dict>
 		<key>Headers/KochavaGoogleODM.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0R7n1siag/xpKiy+u/4j4e/Roo4=
+			</data>
 			<key>hash2</key>
 			<data>
 			0OxsRdYI1ODzOaxLVivnuL2sIjxZxCTNeKdyPLGWx54=
 			</data>
 		</dict>
-		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
+		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			nmCiERnTONVvmM7+bfx06EXM/DQ=
+			</data>
 			<key>hash2</key>
 			<data>
-			fYn47YQoZvcslWdTPsmCRh2jaHvsLZvJP31RJy+4ToQ=
+			hJhHQItUE2CA8gQr0UYW1eMYgcxiktUMl3oxjVWeHr0=
 			</data>
 		</dict>
-		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
+		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			TfuPyUznb2wc5T8z6SjFPPYuQaQ=
+			</data>
 			<key>hash2</key>
 			<data>
-			cnLntZhXk0lw183Lx2NLDQqwQrqy3+Pv5DRTGyHoloM=
+			QgZvqqhmtliUZdiCSq3ShGI1qdB+itfYUFfLTsIyCgk=
 			</data>
 		</dict>
-		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros-simulator.swiftdoc</key>
+		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			yXD9huqvnftT1mw8zfno+/f4goE=
+			</data>
 			<key>hash2</key>
 			<data>
-			s0aiK8IfypCp30P9yX5pUdJmqwZwRHdoWXkQ/DTGyw8=
+			/+01aEltDj9cYC57/wpb1C9cJcGDx5VQg+bYyXw+bmM=
 			</data>
 		</dict>
-		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-xros-simulator.swiftinterface</key>
+		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			TfuPyUznb2wc5T8z6SjFPPYuQaQ=
+			</data>
 			<key>hash2</key>
 			<data>
-			cnLntZhXk0lw183Lx2NLDQqwQrqy3+Pv5DRTGyHoloM=
+			QgZvqqhmtliUZdiCSq3ShGI1qdB+itfYUFfLTsIyCgk=
 			</data>
 		</dict>
-		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
+		<key>Modules/KochavaGoogleODM.swiftmodule/arm64_32-apple-watchos.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			nmCiERnTONVvmM7+bfx06EXM/DQ=
+			</data>
 			<key>hash2</key>
 			<data>
-			fYn47YQoZvcslWdTPsmCRh2jaHvsLZvJP31RJy+4ToQ=
+			hJhHQItUE2CA8gQr0UYW1eMYgcxiktUMl3oxjVWeHr0=
 			</data>
 		</dict>
-		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
+		<key>Modules/KochavaGoogleODM.swiftmodule/arm64_32-apple-watchos.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			PpPiaa0EWQvjE5KwzM8lSQsgZww=
+			</data>
 			<key>hash2</key>
 			<data>
-			rL9I/jj7ezOA9ZhIyEpo3WYwSWaQQPw5DwWTZD+/rvo=
+			hFjRS3mVxGmyXw/Q6DzTN239ZU5zhus5AkLIe9AJF9g=
 			</data>
 		</dict>
-		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-xros-simulator.swiftdoc</key>
+		<key>Modules/KochavaGoogleODM.swiftmodule/arm64_32-apple-watchos.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			M4cXMRNKfRpEFDJJRoVG8sEs4xQ=
+			</data>
 			<key>hash2</key>
 			<data>
-			cASYWITQn6YDSJXieS15skD8DFg4QOVyBofVE5Qkdy8=
+			Yinmoi4EH/fq6uOAGbzWJEw+IhEtrkTYmpfR4UQHuxQ=
 			</data>
 		</dict>
-		<key>Modules/KochavaGoogleODM.swiftmodule/x86_64-apple-xros-simulator.swiftinterface</key>
+		<key>Modules/KochavaGoogleODM.swiftmodule/arm64_32-apple-watchos.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			PpPiaa0EWQvjE5KwzM8lSQsgZww=
+			</data>
 			<key>hash2</key>
 			<data>
-			rL9I/jj7ezOA9ZhIyEpo3WYwSWaQQPw5DwWTZD+/rvo=
+			hFjRS3mVxGmyXw/Q6DzTN239ZU5zhus5AkLIe9AJF9g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			j9FBAlA/zipXFtVMAGqyGDRcOys=
+			</data>
 			<key>hash2</key>
 			<data>
 			uV/AlAtsR8KjzhZzvBn+Et1c87izVCE6xJu0IFVdOyU=
@@ -138,6 +182,10 @@
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			OGl4H7ny93gyz1FVztaVI+HrHt8=
+			</data>
 			<key>hash2</key>
 			<data>
 			ozHVGGR0Pr5OAN0iNgtKU4trOsJqaz61QJTmCjaVmhI=
