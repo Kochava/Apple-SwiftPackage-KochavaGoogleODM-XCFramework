@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nlSRM4pzqZqZO5HVUYshhAz9GE4=
+		jZ09ZniDUbBGS+lmT1SheXu/SwY=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos.abi.json</key>
 		<data>
-		nmCiERnTONVvmM7+bfx06EXM/DQ=
+		cYuv93N/CTN148gd8jfFD3RKt/c=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64_32-apple-watchos.abi.json</key>
 		<data>
-		nmCiERnTONVvmM7+bfx06EXM/DQ=
+		cYuv93N/CTN148gd8jfFD3RKt/c=
 		</data>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64_32-apple-watchos.private.swiftinterface</key>
 		<data>
@@ -85,11 +85,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nmCiERnTONVvmM7+bfx06EXM/DQ=
+			cYuv93N/CTN148gd8jfFD3RKt/c=
 			</data>
 			<key>hash2</key>
 			<data>
-			hJhHQItUE2CA8gQr0UYW1eMYgcxiktUMl3oxjVWeHr0=
+			e8AyoRw9qWM3sxRDk4gMBocyVIpVp3F/PO1DBG7jYsM=
 			</data>
 		</dict>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64-apple-watchos.private.swiftinterface</key>
@@ -129,11 +129,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nmCiERnTONVvmM7+bfx06EXM/DQ=
+			cYuv93N/CTN148gd8jfFD3RKt/c=
 			</data>
 			<key>hash2</key>
 			<data>
-			hJhHQItUE2CA8gQr0UYW1eMYgcxiktUMl3oxjVWeHr0=
+			e8AyoRw9qWM3sxRDk4gMBocyVIpVp3F/PO1DBG7jYsM=
 			</data>
 		</dict>
 		<key>Modules/KochavaGoogleODM.swiftmodule/arm64_32-apple-watchos.private.swiftinterface</key>
